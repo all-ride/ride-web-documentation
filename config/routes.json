@@ -1,0 +1,12 @@
+{
+    "routes": [
+        {
+            "path": "/admin/documentation/api",
+            "file": "config/routes.api.json"
+        },
+        {
+            "path": "/admin/documentation/manual",
+            "file": "config/routes.manual.json"
+        }
+    ]
+}
