@@ -2,7 +2,7 @@
     "name": "ride/web-documentation",
     "description": "Live documentation of a Ride application",
     "license": "MIT",
-    "version": "0.1.1",
+    "version": "0.2.0",
     "authors": [
         {
             "name": "Joris Vandeweerd",
@@ -12,7 +12,7 @@
     "require": {
         "ride/lib-event": ">=0.3.0",
         "ride/web-api": ">=0.1.0",
-        "ride/web-base": ">=0.2.0",
+        "ride/web-base": ">=0.4.0",
         "ride/web-manual": ">=0.1.0"
     },
     "autoload": {
