@@ -77,6 +77,18 @@
                     ]
                 },
                 {
+                    "method": "setWeight",
+                    "arguments": [
+                        {
+                            "name": "weight",
+                            "type": "scalar",
+                            "properties": {
+                                "value": 99
+                            }
+                        }
+                    ]
+                },
+                {
                     "method": "addMenuItem",
                     "arguments": [
                         {
